@@ -1,0 +1,19 @@
+{
+    "01_序言": [
+        "script/01_序言.md"
+    ],
+    "02_第一章": [
+        "script/v4/ch1_01.md",
+        "script/v4/ch1_02.md",
+        "script/v4/ch1_03.md",
+        "script/v4/ch1_04.md",
+        "script/v4/ch1_05.md",
+        "script/v4/ch1_06.md",
+        "script/v4/ch1_07.md"
+    ],
+    "03_第二章": [
+        "script/v4/ch2_01.md",
+        "script/v4/ch2_02.md",
+        "script/v4/ch2_03.md"
+    ]
+}
